@@ -41,17 +41,17 @@ Used MTA Turnstyle Data for April 2015-2017 (http://web.mta.info/developers/turn
 
 2. Traffic recieved at each station is proportional to the circle around the point. 
 
-![Map](graphs/Map_folium.png)
+![Map](http://downloadforpc.net/Metis/graphs/Map_folium.png)
 
 
 ### Day of the Week Recommendation:
-![Daily](graphs/Wkdy_Wknd.png)
+![Daily](http://downloadforpc.net/Metis/graphs/Wkdy_Wknd.png)
 
 ### Top 15 Recommendations:
-![Top15](graphs/Top15Stations.png)
+![Top15](http://downloadforpc.net/Metis/graphs/Top15Stations.png)
 
 ### Time/Hour Recommendation:
-![Hourly](graphs/116%20ST.png)
+![Hourly](http://downloadforpc.net/Metis/graphs/116%20ST.png)
 
 
 ## <a name="section-d"></a>4.  Summary of insights
