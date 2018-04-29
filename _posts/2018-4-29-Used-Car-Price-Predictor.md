@@ -1,6 +1,3 @@
-# Used Car Price Prediction Model for Classifieds 
-
-
 ### Table of Contents
 [1. Project Overview](#section-a)  
 [2. Actions](#section-b)  
