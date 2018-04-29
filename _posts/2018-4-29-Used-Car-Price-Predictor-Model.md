@@ -1,3 +1,5 @@
+![Sklearn logo](http://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)
+
 ### Table of Contents
 [1. Project Overview](#section-a)  
 [2. Actions](#section-b)  
