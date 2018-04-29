@@ -12,14 +12,6 @@ description: The goal is to turn data into information, and information into ins
 avatar: http://downloadforpc.net/Metis/LOGO_6.png
 
 #<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117673581-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-117673581-1');
-</script>
 
 #
 # Flags below are optional
@@ -28,7 +20,7 @@ avatar: http://downloadforpc.net/Metis/LOGO_6.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: smeet.vikani@gmail.com
   facebook:
   flickr:
   github:
@@ -94,3 +86,11 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+# <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117673581-1"></script>
+# <script>
+#   window.dataLayer = window.dataLayer || [];
+#   function gtag(){dataLayer.push(arguments);}
+#   gtag('js', new Date());
+#
+#   gtag('config', 'UA-117673581-1');
+# </script>
