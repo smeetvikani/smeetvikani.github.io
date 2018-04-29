@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Highly-technical and accomplished data scientist over four years of professional experience leading various efficiency initiatives and managing teams to directly impact the bottom line. 2017 Master's graduate skilled in process improvement and data analytics. Open to recruitment. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[smeet.vikani@gmail.com](mailto:smeet.vikani@gmail.com)
