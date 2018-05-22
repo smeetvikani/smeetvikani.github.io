@@ -94,3 +94,5 @@ exclude:
 #
 #   gtag('config', 'UA-117673581-1');
 # </script>
+
+theme: jekyll-theme-dinky
