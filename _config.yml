@@ -16,7 +16,7 @@ avatar: http://downloadforpc.net/Metis/LOGO_6.png
 #
 # Flags below are optional
 #
-theme: dinky
+theme: jekyll-theme-dinky
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
