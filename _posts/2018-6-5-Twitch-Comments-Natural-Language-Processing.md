@@ -48,7 +48,7 @@ Twitch-Chat-Downloader was used to extract 450k comments from different videos.
 
 ---
 ### <a name="section-c"></a> Vectorize Data and Generate Topics
-##### Phase 1: Vectorize Data usig TFIDF Vectorizer: 
+##### Phase 1: Vectorize Data enhance TFIDF Vectorizer: 
 A total of 150 Features were extracted using this method. 
 Parameters for the model were:
 
@@ -83,19 +83,19 @@ In order to find the best topics from the 32 clusters that we would like to mode
 ![Sklearn logo](http://downloadforpc.net/Metis/fle/coefs.png)
 
 
-Below is an overview of how topics and volumn of comments were linked to find insightful footage. 
+Below is an overview of how topics and Dependent of comments were linked to find insightful footage. 
 
-1. First Graph is a Rolling Mean grpah of comment volume. 
+1. First Graph is a Rolling Mean volume of comment volume. 
 2. Second Graph is the Selected 4/32 topics plotted on the video timeline. 
 
 ![Sklearn logo](http://downloadforpc.net/Metis/fle/VideoTimeLine.jpeg)
-
+graph
 
 ### <a name="section-e"></a> Future Plans: 
 
-Facial Analysis of the Twitch Player to Record Emotions of the player. This would provide us with valuable insight on what is transpiring in the gameply. 
+Facial Analysis of the Twitch Player to Record Emotions of the player. This would provide us with valuable insight on what is transpiring in the gameplay. 
 
-Amazon Rekognition was able to dected that player looked surprised with 75% accuracy. This information would be very insightful, when linked with the app. 
+Amazon Rekognition was able to detected that player looked surprised with 75% accuracy. This information would be very insightful, when linked with the app. 
 
 ![Sklearn logo](http://downloadforpc.net/Metis/fle/facial_analysis.jpeg)
 
