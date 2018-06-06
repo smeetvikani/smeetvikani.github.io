@@ -17,7 +17,7 @@
 ### <a name="section-a"></a>1.  Project Overview
 Twitch is a online streaming platform with 100+ Million active monthly users. People around the world sign on to watch their favorite player play their favorite game. 
 
-Designed an app that will enchance Twitch user experience for navigating saved replays. Specifically for game Fortnite, average length of a saved video is 5+ hours long. 
+Designed an app that will enhance Twitch user experience for navigating saved replays. Specifically for game Fortnite, average length of a saved video is 5+ hours long. 
 
 ##### The 3 goals for this project are:
 1.  Capture crowd reaction in terms of chat messages. 
