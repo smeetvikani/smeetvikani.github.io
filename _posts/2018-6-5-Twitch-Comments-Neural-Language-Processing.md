@@ -9,7 +9,7 @@
 [6. Supervised: Coef Analysis of Topics Generated](#section-c2) 
 [7. Future Plans](#section-e)  
 [8. Flask App](#section-end)  
-[9. Github Repo - Link](https://github.com/smeetvikani/AirBnB_User_Behavior_Classification)
+[9. Github Repo - Link](https://github.com/smeetvikani/Twitch_Comments_Analysis_NLP)
 
 
 ---
