@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Resume
 permalink: /resume.md/
 ---
 
@@ -8,5 +8,6 @@ permalink: /resume.md/
 
 
 ### Contact me
+Open to Recruitment
 
 [smeet.vikani@gmail.com](mailto:smeet.vikani@gmail.com)
