@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /resume/
+permalink: /resume.md/
 ---
 
 <iframe src="https://resume.creddle.io/embed/ewgwecvvbih" width="850" height="1100" seamless></iframe> 
