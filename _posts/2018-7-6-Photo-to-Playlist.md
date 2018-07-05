@@ -27,7 +27,7 @@ Designed an app that will take in an input image and output a recommended playli
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WxvRlYI7VJk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
 Demo for the app Available at: 
-[Link to App Demo](www.selfiemixtape.com)
+[Link to App Demo](http://selfiemixtape.com)
 <br>
 
 ---
