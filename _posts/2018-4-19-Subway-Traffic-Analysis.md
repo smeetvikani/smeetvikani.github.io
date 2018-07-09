@@ -36,9 +36,9 @@ Used MTA Turnstyle Data for April 2015-2017 (http://web.mta.info/developers/turn
 
 #### Location Recommendation
 
-1. Recommended loations in green. 
+1. Recommended locations in green. 
 
-2. Traffic recieved at each station is proportional to the circle around the point. 
+2. Traffic received at each station is proportional to the circle around the point. 
 
 ![Map](http://downloadforpc.net/Metis/graphs/Map_folium.png)
 
@@ -59,3 +59,6 @@ Used MTA Turnstyle Data for April 2015-2017 (http://web.mta.info/developers/turn
 3. Stations classified as high per capita income present opportunities for fundraising. 
 4. Weekdays mornings not recommended.
 5. Overall stations are better targeted between 4-8pm
+
+
+

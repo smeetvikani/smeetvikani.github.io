@@ -75,9 +75,9 @@ Used to find optimal number of topics in the data sample.
 
 ### <a name="section-c3"></a> Coef Analysis: Used supervised GLM (Poisson) to find the best topics
 
-In order to find the best topics from the 32 clusters that we would like to model on the video time. Used supervised learning to assess which topics highly correlated with Increse in comment counts. 
+In order to find the best topics from the 32 clusters that we would like to model on the video time. Used supervised learning to assess which topics highly correlated with increase in comment counts. 
 
-* Depended Variable(y): Comments Per 30s
+* Dependent Variable(y): Comments Per 30s
 * Independent Variable(x): Topic Weights from NMF Model
 
 ![Sklearn logo](http://downloadforpc.net/Metis/fle/coefs.png)

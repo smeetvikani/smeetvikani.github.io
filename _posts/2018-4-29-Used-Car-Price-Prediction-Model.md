@@ -24,7 +24,7 @@
 
 1. Identified top US cities with most cars per square inch. 
 
-2. For those cities, A total of 26,000 Records were scraped using Beautiful Soup and Selenium over the course of 48 Hours. 
+2. For those cities, A total of 26,000 Records were scraped using Beautifulsoup and Selenium over the course of 48 Hours. 
 
 3. Data was acquired from Carfax.com and UsedCars.com
 
@@ -40,7 +40,7 @@
 ---
 ### <a name="section-b2"></a>2.  EDA
 Exploratory Data Analysis was performed on the data to extract meaningful insights before modeling. 
-Below is a violin plot created using Seaborn, represents the histogram of average car spend per state. Only the states listed below were included in the analysis, due to time contraints. 
+Below is a violin plot created using Seaborn, represents the histogram of average car spend per state. Only the states listed below were included in the analysis, due to time constraints. 
 
 ![Map](http://downloadforpc.net/Metis/project-car-price-est/img1_violinplots.jpeg)
 
@@ -72,21 +72,21 @@ The QQ Plot also shows that model is having trouble estimating prices for the mo
 ### <a name="section-c2"></a> Model 2, Linear Regression Lasso Model
 
 Due to high number of features, I had to employ Lasso model to ensure there was no overfitting. Listed below are the features with the highest impact on the model. 
-R Squared of this model remained consistant with the performance of pervious model. Thus, there was no overfitting.  
+R Squared of this model remained consistent with the performance of pervious model. Thus, there was no overfitting.  
 
 ![Map](http://downloadforpc.net/Metis/project-car-price-est/img4a_coef_lasso.png)
 
 
 ### <a name="section-c3"></a> Model 3, Log Transformed Linear Regression Model
 
-Depended Variable Log Transformed model was created to deal with the heavy right skewed distribution. Normalizing the distribution would reduce the residual error. 
+Dependent Variable Log Transformed model was created to deal with the heavy right skewed distribution. Normalizing the distribution would reduce the residual error. 
 
-#### <center>Backtransformed Model Score: .84%</center>
+#### <center>Back Transformed Model Score: .84%</center>
 
 ##### Model 3: Residual Error
 Max Residual Error was upwards of 30k in the previous model, with the log transformed model it was trimmed down to a max of then 10k. 
 
-This model passes the eye test becase, majority of the cars being sold are over 2.5k$
+This model passes the eye test because, majority of the cars being sold are over 2.5k$
 ![Map](http://downloadforpc.net/Metis/project-car-price-est/img8_ResidPretransformed.jpeg)
 
 
@@ -116,3 +116,6 @@ As a result, Log Transformed Linear Regression Model was accurately able to pred
 
 ### <a name="section-end"></a> Contact:
 Thank you for visiting the page, feel free to contact me at smeet.vikani@gmail.com
+
+
+
