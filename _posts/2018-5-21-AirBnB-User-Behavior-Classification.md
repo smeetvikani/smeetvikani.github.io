@@ -1,4 +1,4 @@
-![Sklearn logo](https://justproductjobs.com/img/logos/airbnb.png)
+![Sklearn logo](http://downloadforpc.net/Metis/project4/plots/airbnb-128.png)
 
 ### Table of Contents
 [1. Project Overview](#section-a)  
