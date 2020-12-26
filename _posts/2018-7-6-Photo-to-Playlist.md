@@ -42,7 +42,7 @@ Demo for the app Available at:
 ---
 
 #### 3. Project Timeline: 
-![Sklearn logo](http://downloadforpc.net/Metis/facial_rec/timeline.jpeg)
+![Sklearn logo](https://raw.githubusercontent.com/smeetvikani/smeetvikani.github.io/master/_posts/images/facial_rec/timeline.jpeg)
 <br>
 <br>
 ---
@@ -59,14 +59,14 @@ Stanford University NLP Department put the corpus together by extracting word co
 I Collected vectors for each word in each song from the 1.2M word corpus. Then, averaged the vectors for all the words in 1 song. 
 As a result, was able to produce the following plot for which each vector on this TSNE plot represents a song. 
 
-![Sklearn logo](http://downloadforpc.net/Metis/facial_rec/tsne.jpeg)
+![Sklearn logo](https://raw.githubusercontent.com/smeetvikani/smeetvikani.github.io/master/_posts/images/facial_rec/tsne.jpeg)
 <br>
 
 ### <a name="section-ca"></a>6. Lyrics Based Recommendation
 For each song in a 100D vector space. Used Cosine Distance to calculate the distance between the emotion and the song. Below is the list of emotions used for this project. 
 
 ###### Emotion list: Happy, Sad, Angry, Confused, Stunned, Calm, Annoyed
-![Sklearn logo](http://downloadforpc.net/Metis/facial_rec/cosine.jpeg)
+![Sklearn logo](https://raw.githubusercontent.com/smeetvikani/smeetvikani.github.io/master/_posts/images/facial_rec/cosine.jpeg)
 <br>
 
 For Example, based on the lyrics one song has a distance associated with each emotion. Lower the distance the better. Using this tactic, I was able to leverage gradiance of emotions to recommend a playlist. As a result, I am able to produce a unique playlist for each picture. 
