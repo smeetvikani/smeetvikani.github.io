@@ -40,7 +40,7 @@ Used MTA Turnstyle Data for April 2015-2017 (http://web.mta.info/developers/turn
 
 2. Traffic received at each station is proportional to the circle around the point. 
 
-![Map](https://github.com/smeetvikani/smeetvikani.github.io/tree/master/_posts/images/graphs/Map_folium.png)
+![Map](https://raw.githubusercontent.com/smeetvikani/smeetvikani.github.io/master/_posts/images/graphs/Map_folium.png)
 
 
 #### Day of the Week Recommendation:
