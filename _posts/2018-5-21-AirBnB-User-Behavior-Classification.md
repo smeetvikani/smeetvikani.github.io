@@ -1,4 +1,4 @@
-![Sklearn logo](http://downloadforpc.net/Metis/project4/plots/airbnb-128.png)
+![Sklearn logo](https://raw.githubusercontent.com/smeetvikani/smeetvikani.github.io/master/_posts/images/project4/plots/airbnb-128.png)
 
 ### Table of Contents
 [1. Project Overview](#section-a)  
@@ -48,7 +48,7 @@
 ---
 ### <a name="section-b2"></a>3.  Data Distribution
 Exploratory Data Analysis was performed on the age distribution of the target demographic. Below is a plot created using Seaborn, represents the histogram of average AirB&B user age.
-![Map](http://downloadforpc.net/Metis/project4/plots/fig.jpeg)
+![Map](https://raw.githubusercontent.com/smeetvikani/smeetvikani.github.io/master/_posts/images/project4/plots/fig.jpeg)
 
 ---
 ### <a name="section-c"></a> Multivariate Classification Models
@@ -58,7 +58,7 @@ Exploratory Data Analysis was performed on the age distribution of the target de
 Tested Initial Data using Various Models: Each Model was Cross Validated Using Test Sets. Below is the test data model summary. 
 ![Map](http://downloadforpc.net/Metis/project4/plots/compare.jpeg)
 Best Performing model was Random Forest Classifier. These results were not significant due to high class imbalance. 
-![Map](http://downloadforpc.net/Metis/project4/plots/rfc_score.png)
+![Map](https://raw.githubusercontent.com/smeetvikani/smeetvikani.github.io/master/_posts/images/project4/plots/rfc_score.png)
 
 
 
@@ -66,11 +66,11 @@ Best Performing model was Random Forest Classifier. These results were not signi
 Due to high class imbalance, we were unable to get significant results from multivariate classification. In order to derive significant results from the data, I narrowed down the classes to find just users travelling in the States vs the rest of the world. 
 
 As you can see below Logistic Regression, outperformed random forest classifier by a large margin. Scoring Metric was F1 Score, with a good balance of accuracy and recall. 
-![Map](http://downloadforpc.net/Metis/project4/plots/compare2.jpeg)
+![Map](https://raw.githubusercontent.com/smeetvikani/smeetvikani.github.io/master/_posts/images/project4/plots/compare2.jpeg)
 
 
 Listed below are the features with the highest impact on the model. R Squared of this model remained consistent with the test set, we can conclude there was no overfitting. 
-![Map](http://downloadforpc.net/Metis/project4/plots/coef.jpeg)
+![Map](https://raw.githubusercontent.com/smeetvikani/smeetvikani.github.io/master/_posts/images/project4/plots/coef.jpeg)
 
 
 
@@ -91,7 +91,7 @@ Challenge: Choosing the right threshold. How to determine that this is the most 
 * FP= Wrong Demographic. Loss 1/2$ 
 * Best Threshold  .35
 * Profit Margin of 4,000$ with this model and threshold.
-![Map](http://downloadforpc.net/Metis/project4/plots/first_joint.jpeg)
+![Map](https://raw.githubusercontent.com/smeetvikani/smeetvikani.github.io/master/_posts/images/project4/plots/first_joint.jpeg)
 
 
 
@@ -107,7 +107,7 @@ Details on the model below:
 | Precision |  .47   |   .43 |
 | F1 | .58  |    .57 |
 
-![Map](http://downloadforpc.net/Metis/project4/plots/confusion.jpeg)
+![Map](https://raw.githubusercontent.com/smeetvikani/smeetvikani.github.io/master/_posts/images/project4/plots/confusion.jpeg)
 
 
 ### <a name="section-end"></a> App:
