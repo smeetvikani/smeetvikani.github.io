@@ -1,4 +1,4 @@
-![Sklearn logo](http://downloadforpc.net/Metis/fle/Twitch_Purple_RGB.png)
+![Sklearn logo](https://raw.githubusercontent.com/smeetvikani/smeetvikani.github.io/master/_posts/images/fle/Twitch_Purple_RGB.png)
 
 ### Table of Contents
 [1. Project Overview](#section-a)  
@@ -59,7 +59,7 @@ Parameters for the model were:
 This TFIDF Matrix was then leveraged into NMF Model. Most of the topics extracted were emojis, due to the high frequency in the sample. 
 
 We will be using these emojis to identify the "epic plays" 
-![Sklearn logo](http://downloadforpc.net/Metis/fle/topics.png)
+![Sklearn logo](https://raw.githubusercontent.com/smeetvikani/smeetvikani.github.io/master/_posts/images/fle/topics.png)
 
 
 
@@ -67,11 +67,11 @@ We will be using these emojis to identify the "epic plays"
 Used to find optimal number of topics in the data sample. 
 
 ###### K-Means Elbow Plot:
-![Sklearn logo](http://downloadforpc.net/Metis/fle/kmeans.jpeg)
+![Sklearn logo](https://raw.githubusercontent.com/smeetvikani/smeetvikani.github.io/master/_posts/images/fle/kmeans.jpeg)
 
 ###### PCA for 32 Clusters: Note these are unlabeled clusters. 
 
-![Sklearn logo](http://downloadforpc.net/Metis/fle/pca-3d.png)
+![Sklearn logo](https://raw.githubusercontent.com/smeetvikani/smeetvikani.github.io/master/_posts/images/fle/pca-3d.png)
 
 ### <a name="section-c3"></a> Coef Analysis: Used supervised GLM (Poisson) to find the best topics
 
@@ -80,7 +80,7 @@ In order to find the best topics from the 32 clusters that we would like to mode
 * Dependent Variable(y): Comments Per 30s
 * Independent Variable(x): Topic Weights from NMF Model
 
-![Sklearn logo](http://downloadforpc.net/Metis/fle/coefs.png)
+![Sklearn logo](https://raw.githubusercontent.com/smeetvikani/smeetvikani.github.io/master/_posts/images/fle/coefs.png)
 
 
 Below is an overview of how topics and Dependent of comments were linked to find insightful footage. 
@@ -88,7 +88,7 @@ Below is an overview of how topics and Dependent of comments were linked to find
 1. First Graph is a Rolling Mean volume of comment volume. 
 2. Second Graph is the Selected 4/32 topics plotted on the video timeline. 
 
-![Sklearn logo](http://downloadforpc.net/Metis/fle/VideoTimeLine.jpeg)
+![Sklearn logo](https://raw.githubusercontent.com/smeetvikani/smeetvikani.github.io/master/_posts/images/fle/VideoTimeLine.jpeg)
 graph
 
 ### <a name="section-e"></a> Future Plans: 
@@ -97,7 +97,7 @@ Facial Analysis of the Twitch Player to Record Emotions of the player. This woul
 
 Amazon Rekognition was able to detected that player looked surprised with 75% accuracy. This information would be very insightful, when linked with the app. 
 
-![Sklearn logo](http://downloadforpc.net/Metis/fle/facial_analysis.jpeg)
+![Sklearn logo](https://raw.githubusercontent.com/smeetvikani/smeetvikani.github.io/master/_posts/images/fle/facial_analysis.jpeg)
 
 ### <a name="section-end"></a> Contact:
 Thank you for visiting my blog, If you have any questions free to contact me at smeet.vikani@gmail.com
