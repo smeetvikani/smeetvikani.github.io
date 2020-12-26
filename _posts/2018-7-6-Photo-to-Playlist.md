@@ -1,4 +1,4 @@
-![Sklearn logo](http://downloadforpc.net/Metis/facial_rec/logo.jpeg)
+![Sklearn logo](https://raw.githubusercontent.com/smeetvikani/smeetvikani.github.io/master/_posts/images/facial_rec/logo.jpeg)
 
 ### Table of Contents
 [1. Project Overview](#section-a)  
